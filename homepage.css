@@ -75,7 +75,7 @@
   height: 45px;
   align-self: center;
 }
-.homepage-button1 {
+.homepage-navlink {
   width: 182px;
   height: 70px;
   padding: 0px;
@@ -91,6 +91,7 @@
   border-color: var(--dl-color-gray-white);
   margin-right: 0px;
   padding-right: 0px;
+  text-decoration: none;
   background-color: rgb(239, 168, 92);
 }
 .homepage-text3 {

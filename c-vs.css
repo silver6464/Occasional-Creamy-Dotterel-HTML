@@ -579,6 +579,14 @@
   width: 124px;
   height: 35px;
 }
+@media(max-width: 991px) {
+  .c-vs-navbar-interactive1 {
+    display: none;
+  }
+  .c-vs-containercolumneducation {
+    display: none;
+  }
+}
 @media(max-width: 767px) {
   .c-vs-navbar-interactive {
     padding-left: var(--dl-space-space-twounits);

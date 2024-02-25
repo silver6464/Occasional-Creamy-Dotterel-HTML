@@ -66,6 +66,7 @@
   width: 100%;
   height: 100px;
   display: flex;
+  align-self: center;
   align-items: flex-start;
   justify-content: center;
 }
@@ -78,32 +79,13 @@
 .homepage-navlink {
   width: 182px;
   height: 70px;
-  padding: 0px;
-  position: relative;
-  font-size: 20px;
   align-self: center;
-  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
-  font-style: normal;
-  margin-top: 0px;
-  text-align: justify;
-  font-family: "Inter";
-  font-weight: 700;
-  border-color: var(--dl-color-gray-white);
-  margin-right: 0px;
-  padding-right: 0px;
   text-decoration: none;
   background-color: rgb(239, 168, 92);
 }
 .homepage-text3 {
-  top: 0ts;
-  left: 0px;
-  right: 0px;
-  width: auto;
-  height: auto;
-  margin: auto;
-  display: block;
-  position: absolute;
   font-size: 20px;
-  text-align: center;
+  font-style: normal;
   font-family: "Roboto";
+  font-weight: 700;
 }
